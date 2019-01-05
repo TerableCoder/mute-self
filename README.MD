@@ -1,17 +1,20 @@
 # mute-self
-Prevent yourself from sending message to specific channels. (Default channels: Global, Area). See config.js for more options.
+Prevent yourself from sending message to specific channels. (Default channels: Say, Area, Global, Fishing-Greet Skill). See config.js for more options.
 
 ## Commands
-- `math`
+- `math` or `muteme` or `muteself`
   - toggle mod enabled/disabled
+  - You can use `math` or `muteme` or `muteself` for all commands
 - `math add channel`
-  - add channel to bolck list
+  - add channel to block list
 - `math remove channel`
-  - remove channel to bolck list
-- `math clean`
-  - clear bolck list
-- `math list`
+  - remove channel to block list
+- `math clean` or `math clear`
+  - clear block list
+- `math list` or `math help`
   - show channel list
 ---
 
-[Donate for tera love ⎛⎝≥⏝⏝≤⎠⎞ ](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A&lc=US&item_name=teralove&no_note=0&cn=Add%20special%20instructions%20to%20the%20seller%3a&no_shipping=1&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
+Translated by TerableCoder
+
+[Donate for tera love to bobby ⎛⎝≥⏝⏝≤⎠⎞ ](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A&lc=US&item_name=teralove&no_note=0&cn=Add%20special%20instructions%20to%20the%20seller%3a&no_shipping=1&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)

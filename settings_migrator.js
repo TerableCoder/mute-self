@@ -1,6 +1,6 @@
 const DefaultSettings = {
   "enabled": true,
-  "channels": [3, 27]
+  "channels": [0, 3, 10, 27]
 }
 
 module.exports = function MigrateSettings(from_ver, to_ver, settings) {
