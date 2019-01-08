@@ -5,7 +5,7 @@
 		"module.json": "41b017d7c479d10a73343846ebd9a6f649c32e91b11c6796d56796ff32b2a068",
 		"README.MD": "76273d3797034f895e78117dc60f52b5977fc90a7fe2b7da75639ff297ba1f76",
 		"settings_migrator.js": "504f2ff1b1f7f17c1b7416b653cfea3ce36b472dac6450101629645d0f65cd90"
-	}
+	},
 	"defs": {
 		"C_CHAT": 1
 	}
