@@ -33,6 +33,9 @@ module.exports = function MuteSelf(mod) {
 			command.message(`<font color="#E69F00">Channel mute listed cleared`);
 		},
 		list() {
+			mod.command.message(`[ ${mod.settings.channels} ]`);
+		},
+		info() {
 			command.message(`[Say-0] [Party-1] [Guild-2] [Area-3] [Trade-4] [Global-27]`);
 			command.message(`[Party Notice-21] [Raid Notice-25] [Command?-22] [Whisper-7]`);
 			command.message(`[Private Channel-11~18] [Bargain-19] [Announcement?-24]`);

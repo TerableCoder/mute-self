@@ -11,8 +11,10 @@ Prevent yourself from sending message to specific channels. (Default channels: S
   - remove channel to block list
 - `math clean` or `math clear`
   - clear block list
-- `math list` or `math help`
-  - show channel list
+- `math list`
+  - show list of blocked channels
+- `math info` or `math help`
+  - show channel numbers list
 ---
 
 Translated by TerableCoder

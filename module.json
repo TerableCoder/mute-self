@@ -1,13 +1,14 @@
 {
     "disableAutoUpdate": true,
     "name": "mute-self-markers",
-    "author": "teralove / bobby / translated by TerableCoder",
-    "description": "Prevent yourself from sending message to specific channels.",
+    "author": "teralove / bobby / TerableCoder",
+    "homepage": "https://github.com/TerableCoder/mute-self",
+    "description": "Prevent yourself from sending messages to specific channels.",
     "options": {
         "niceName": "Mute Self",
 		"settingsVersion": 1.1,
 		"settingsFile": "config.json",
 		"settingsMigrator": "settings_migrator.js"
     },
-    "servers": [""]
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/mute-self/master/"]
 }
