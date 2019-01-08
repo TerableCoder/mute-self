@@ -1,5 +1,5 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "name": "mute-self-markers",
     "author": "teralove / bobby / TerableCoder",
     "homepage": "https://github.com/TerableCoder/mute-self",
